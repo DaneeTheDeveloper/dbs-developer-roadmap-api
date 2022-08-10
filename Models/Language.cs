@@ -8,6 +8,6 @@ namespace DeveloperRoadmapApi.Models
         public int Id { get; set; }
         public string Name { get; set; } = default!;
 
-        public List<Topic> Topics { get; set; } = default!;
+        
     }
 }
